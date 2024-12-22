@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error: an infinite loop. The `bug.js` file contains code that creates an infinite loop because the increment of the loop counter is missing.  The `bugSolution.js` file provides a corrected version.
